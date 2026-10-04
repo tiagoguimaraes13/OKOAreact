@@ -1,3 +1,4 @@
+import './Cart.css';
 import { useDemoLanguage } from "../../i18n/DemoLanguage";
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
