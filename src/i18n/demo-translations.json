@@ -1,0 +1,405 @@
+{
+  "Website language": {
+    "et": "Veebilehe keel",
+    "ru": "Язык сайта",
+    "fi": "Sivuston kieli",
+    "pt": "Idioma do site",
+    "fr": "Langue du site"
+  },
+  "Item added to cart successfully!": {
+    "et": "Toode lisatud ostukorvi!",
+    "ru": "Товар добавлен в корзину!",
+    "fi": "Tuote lisätty ostoskoriin!"
+  },
+  "OKOA / OTHER KIND OF ART": {
+    "et": "OKOA / TEISTSUGUNE KUNST",
+    "ru": "OKOA / ДРУГОЙ ВИД ИСКУССТВА",
+    "fi": "OKOA / TOISENLAISTA TAIDETTA"
+  },
+  "A different": {
+    "et": "Teistsugune",
+    "ru": "Другой",
+    "fi": "Erilainen"
+  },
+  "way to": {
+    "et": "viis",
+    "ru": "способ",
+    "fi": "tapa"
+  },
+  "see.": {
+    "et": "näha.",
+    "ru": "видеть.",
+    "fi": "nähdä."
+  },
+  "Colour, texture and a little unexpected perspective. Explore the collection.": {
+    "et": "Värv, tekstuur ja ootamatu vaatenurk. Tutvu kollektsiooniga.",
+    "ru": "Цвет, фактура и неожиданный взгляд. Посмотрите коллекцию.",
+    "fi": "Väri, tekstuuri ja odottamaton näkökulma. Tutustu kokoelmaan."
+  },
+  "Explore artworks": {
+    "et": "Tutvu teostega",
+    "ru": "Посмотреть работы",
+    "fi": "Tutustu teoksiin"
+  },
+  "INDEPENDENT GALLERY WEBSITE CONCEPT / 2026": {
+    "et": "SÕLTUMATU GALERII VEEBILEHE KONTSEPTSIOON / 2026",
+    "ru": "НЕЗАВИСИМАЯ КОНЦЕПЦИЯ САЙТА ГАЛЕРЕИ / 2026",
+    "fi": "ITSENÄINEN GALLERIASIVUSTON KONSEPTI / 2026"
+  },
+  "The Eye artwork": {
+    "et": "Kunstiteos The Eye",
+    "ru": "Произведение The Eye",
+    "fi": "The Eye -teos"
+  },
+  "01 / THE EYE": {
+    "et": "01 / THE EYE",
+    "ru": "01 / THE EYE",
+    "fi": "01 / THE EYE"
+  },
+  "OTHER KIND OF ART / COLOUR / PERSPECTIVE / OTHER KIND OF ART / COLOUR / PERSPECTIVE /": {
+    "et": "TEISTSUGUNE KUNST / VÄRV / VAATENURK / TEISTSUGUNE KUNST / VÄRV / VAATENURK /",
+    "ru": "ДРУГОЙ ВИД ИСКУССТВА / ЦВЕТ / ВЗГЛЯД / ДРУГОЙ ВИД ИСКУССТВА / ЦВЕТ / ВЗГЛЯД /",
+    "fi": "TOISENLAISTA TAIDETTA / VÄRI / NÄKÖKULMA / TOISENLAISTA TAIDETTA / VÄRI / NÄKÖKULMA /"
+  },
+  "New perspectives.": {
+    "et": "Uued vaatenurgad.",
+    "ru": "Новые взгляды.",
+    "fi": "Uusia näkökulmia."
+  },
+  "View the collection": {
+    "et": "Vaata kollektsiooni",
+    "ru": "Посмотреть коллекцию",
+    "fi": "Katso kokoelmaa"
+  },
+  "Splash artwork": {
+    "et": "Kunstiteos Splash",
+    "ru": "Произведение Splash",
+    "fi": "Splash-teos"
+  },
+  "A study in movement and colour.": {
+    "et": "Liikumise ja värvi uurimus.",
+    "ru": "Исследование движения и цвета.",
+    "fi": "Liikkeen ja värin tutkielma."
+  },
+  "Galaxy artwork": {
+    "et": "Kunstiteos Galaxy",
+    "ru": "Произведение Galaxy",
+    "fi": "Galaxy-teos"
+  },
+  "A glimpse into another world.": {
+    "et": "Pilguheit teise maailma.",
+    "ru": "Взгляд в другой мир.",
+    "fi": "Vilaus toiseen maailmaan."
+  },
+  "BEYOND THE EXPECTED": {
+    "et": "OOTUSTEST KAUGEMALE",
+    "ru": "ЗА ПРЕДЕЛАМИ ОЖИДАНИЙ",
+    "fi": "ODOTUSTEN TUOLLE PUOLEN"
+  },
+  "Art doesn't have to": {
+    "et": "Kunst ei pea",
+    "ru": "Искусство не обязано",
+    "fi": "Taiteen ei tarvitse"
+  },
+  "match the room.": {
+    "et": "ruumiga sobima.",
+    "ru": "подходить к комнате.",
+    "fi": "sopia huoneeseen."
+  },
+  "It can change it.": {
+    "et": "See võib ruumi muuta.",
+    "ru": "Оно может её изменить.",
+    "fi": "Se voi muuttaa sen."
+  },
+  "Inside the concept": {
+    "et": "Kontseptsiooni sisse",
+    "ru": "Внутри концепции",
+    "fi": "Konseptin sisällä"
+  },
+  "A mysterious gaze into the depths of imagination, where reality meets the extraordinary in a swirl of enchanting colors.": {
+    "et": "Salapärane pilk kujutlusvõime sügavusse, kus reaalsus kohtub erakordsega lummavates värvides.",
+    "ru": "Таинственный взгляд в глубины воображения, где реальность встречается с необыкновенным в чарующих цветах.",
+    "fi": "Salaperäinen katse mielikuvituksen syvyyksiin, joissa todellisuus kohtaa poikkeuksellisen lumoavissa väreissä."
+  },
+  "Mixed Media on Canvas": {
+    "et": "Segatehnika lõuendil",
+    "ru": "Смешанная техника на холсте",
+    "fi": "Sekatekniikka kankaalle"
+  },
+  "An explosive celebration of color and movement, capturing the dynamic energy of water in motion.": {
+    "et": "Värvi ja liikumise plahvatuslik tähistamine, mis tabab liikuva vee energiat.",
+    "ru": "Взрывное торжество цвета и движения, передающее энергию воды.",
+    "fi": "Värin ja liikkeen räiskyvä juhla, joka vangitsee veden energian."
+  },
+  "Acrylic on Canvas": {
+    "et": "Akrüül lõuendil",
+    "ru": "Акрил на холсте",
+    "fi": "Akryyli kankaalle"
+  },
+  "Breaking free from conventional boundaries, this piece explores the essence of liberation through surreal imagery.": {
+    "et": "Tavapärastest piiridest väljudes uurib teos vabadust sürrealistlike kujundite kaudu.",
+    "ru": "Выходя за привычные границы, работа исследует свободу через сюрреалистические образы.",
+    "fi": "Teos ylittää tavalliset rajat ja tutkii vapautta surrealistisin kuvin."
+  },
+  "Digital Art on Canvas": {
+    "et": "Digikunst lõuendil",
+    "ru": "Цифровое искусство на холсте",
+    "fi": "Digitaalinen taide kankaalle"
+  },
+  "A cosmic journey into the unknown, blending otherworldly elements with terrestrial landscapes.": {
+    "et": "Kosmiline rännak tundmatusse, ühendades ebamaised elemendid maiste maastikega.",
+    "ru": "Космическое путешествие в неизвестность, соединяющее неземные элементы с земными пейзажами.",
+    "fi": "Kosminen matka tuntemattomaan yhdistää tuonpuoleiset elementit maan maisemiin."
+  },
+  "Mixed Media with Metallic Paint": {
+    "et": "Segatehnika metallikvärviga",
+    "ru": "Смешанная техника с металлической краской",
+    "fi": "Sekatekniikka metallimaalilla"
+  },
+  "Inspired by kintsugi, this piece celebrates the beauty of imperfection through golden highlights and bold textures.": {
+    "et": "Kintsugist inspireeritud teos tähistab ebatäiuslikkuse ilu kuldsete aktsentide ja tugevate tekstuuridega.",
+    "ru": "Вдохновлённая кинцуги работа прославляет красоту несовершенства золотыми акцентами и смелыми фактурами.",
+    "fi": "Kintsugista inspiroitunut teos juhlistaa epätäydellisyyttä kultaisin korostuksin ja voimakkain pinnoin."
+  },
+  "Acrylic with Gold Leaf": {
+    "et": "Akrüül kullalehega",
+    "ru": "Акрил с сусальным золотом",
+    "fi": "Akryyli ja lehtikulta"
+  },
+  "A mesmerizing exploration of cosmic beauty, featuring swirling nebulas and interstellar patterns.": {
+    "et": "Lummav kosmilise ilu uurimus keerlevate udukogude ja tähtedevaheliste mustritega.",
+    "ru": "Завораживающее исследование космической красоты с туманностями и межзвёздными узорами.",
+    "fi": "Lumoava kosmisen kauneuden tutkielma pyörteilevine tähtisumuineen ja tähtienvälisine kuvioineen."
+  },
+  "Acrylic and Metallic Paint": {
+    "et": "Akrüül ja metallikvärv",
+    "ru": "Акрил и металлическая краска",
+    "fi": "Akryyli ja metallimaali"
+  },
+  "Our Collection": {
+    "et": "Meie kollektsioon",
+    "ru": "Наша коллекция",
+    "fi": "Kokoelmamme"
+  },
+  "Add to Cart": {
+    "et": "Lisa ostukorvi",
+    "ru": "Добавить в корзину",
+    "fi": "Lisää ostoskoriin"
+  },
+  "Medium:": {
+    "et": "Tehnika:",
+    "ru": "Техника:",
+    "fi": "Tekniikka:"
+  },
+  "Dimensions:": {
+    "et": "Mõõtmed:",
+    "ru": "Размеры:",
+    "fi": "Mitat:"
+  },
+  "Your basket": {
+    "et": "Sinu ostukorv",
+    "ru": "Ваша корзина",
+    "fi": "Ostoskorisi"
+  },
+  "Portfolio demonstration. Prices and availability are illustrative; no orders or payments are processed.": {
+    "et": "Portfooliodemo. Hinnad ja saadavus on näidised; tellimusi ega makseid ei töödelda.",
+    "ru": "Демонстрация портфолио. Цены и наличие иллюстративны; заказы и платежи не обрабатываются.",
+    "fi": "Portfoliodemo. Hinnat ja saatavuus ovat esimerkkejä; tilauksia tai maksuja ei käsitellä."
+  },
+  "Your basket is empty.": {
+    "et": "Sinu ostukorv on tühi.",
+    "ru": "Ваша корзина пуста.",
+    "fi": "Ostoskorisi on tyhjä."
+  },
+  "Explore the collection →": {
+    "et": "Tutvu kollektsiooniga →",
+    "ru": "Посмотреть коллекцию →",
+    "fi": "Tutustu mallistoon →"
+  },
+  "Decrease quantity of {product}": {
+    "et": "Vähenda kogust: {product}",
+    "ru": "Уменьшить количество: {product}",
+    "fi": "Vähennä määrää: {product}"
+  },
+  "Quantity": {
+    "et": "Kogus",
+    "ru": "Количество",
+    "fi": "Määrä"
+  },
+  "Increase quantity of {product}": {
+    "et": "Suurenda kogust: {product}",
+    "ru": "Увеличить количество: {product}",
+    "fi": "Lisää määrää: {product}"
+  },
+  "Remove": {
+    "et": "Eemalda",
+    "ru": "Удалить",
+    "fi": "Poista"
+  },
+  "Items subtotal": {
+    "et": "Toodete vahesumma",
+    "ru": "Сумма товаров",
+    "fi": "Tuotteiden välisumma"
+  },
+  "Delivery and taxes are not calculated in this concept.": {
+    "et": "Selles kontseptsioonis tarneid ja makse ei arvutata.",
+    "ru": "Доставка и налоги в этой концепции не рассчитываются.",
+    "fi": "Toimitusta ja veroja ei lasketa tässä konseptissa."
+  },
+  "Preview order": {
+    "et": "Vaata tellimust",
+    "ru": "Предпросмотр заказа",
+    "fi": "Esikatsele tilausta"
+  },
+  "Order preview": {
+    "et": "Tellimuse eelvaade",
+    "ru": "Предпросмотр заказа",
+    "fi": "Tilauksen esikatselu"
+  },
+  "items ·": {
+    "et": "toodet ·",
+    "ru": "товаров ·",
+    "fi": "tuotetta ·"
+  },
+  "This is a demonstration. No order has been placed and nothing has been charged.": {
+    "et": "See on demo. Tellimust ei esitatud ja tasu ei võetud.",
+    "ru": "Это демонстрация. Заказ не оформлен и оплата не взималась.",
+    "fi": "Tämä on demo. Tilausta ei tehty eikä maksua veloitettu."
+  },
+  "Continue browsing →": {
+    "et": "Jätka sirvimist →",
+    "ru": "Продолжить просмотр →",
+    "fi": "Jatka selailua →"
+  },
+  "INSIDE THE CONCEPT": {
+    "et": "KONTSEPTSIOONIST",
+    "ru": "О КОНЦЕПЦИИ",
+    "fi": "KONSEPTIN SISÄLLÄ"
+  },
+  "Another kind": {
+    "et": "Teistsugune",
+    "ru": "Другой",
+    "fi": "Toisenlainen"
+  },
+  "of perspective.": {
+    "et": "vaatenurk.",
+    "ru": "взгляд.",
+    "fi": "näkökulma."
+  },
+  "This independent website concept explores how an art collection can be presented with space, personality and a focus on the work itself.": {
+    "et": "See sõltumatu veebilehe kontseptsioon näitab kunstikollektsiooni avaralt ja isikupäraselt, keskendudes teostele.",
+    "ru": "Независимая концепция сайта показывает, как представить коллекцию искусства с пространством, характером и вниманием к работам.",
+    "fi": "Itsenäinen sivustokonsepti esittelee taidekokoelman väljästi ja persoonallisesti, itse teoksiin keskittyen."
+  },
+  "The collection, basket and artwork details demonstrate a digital gallery experience. Business information and exhibition details need confirmation before an official launch.": {
+    "et": "Kollektsioon, ostukorv ja teoste detailid näitavad digigalerii kogemust. Ettevõtte ja näituste andmed vajavad enne ametlikku avaldamist kinnitamist.",
+    "ru": "Коллекция, корзина и детали работ демонстрируют цифровую галерею. Информация о бизнесе и выставках требует подтверждения перед официальным запуском.",
+    "fi": "Kokoelma, ostoskori ja teostiedot esittelevät digitaalisen gallerian. Yritys- ja näyttelytiedot on vahvistettava ennen virallista julkaisua."
+  },
+  "VISIT PLANNING CONCEPT": {
+    "et": "KÜLASTUSE PLANEERIMISE KONTSEPTSIOON",
+    "ru": "КОНЦЕПЦИЯ ПЛАНИРОВАНИЯ ВИЗИТА",
+    "fi": "VIERAILUN SUUNNITTELUKONSEPTI"
+  },
+  "A space for": {
+    "et": "Ruum",
+    "ru": "Пространство",
+    "fi": "Tila"
+  },
+  "the unexpected.": {
+    "et": "ootamatule.",
+    "ru": "для неожиданного.",
+    "fi": "odottamattomalle."
+  },
+  "A future official website could publish confirmed gallery locations, opening hours and exhibition details here. This independent demonstration does not provide verified visitor information.": {
+    "et": "Tulevane ametlik veebileht võiks siin avaldada kinnitatud asukohad, lahtiolekuajad ja näitused. See sõltumatu demo ei paku kontrollitud külastusinfot.",
+    "ru": "Будущий официальный сайт мог бы публиковать подтверждённые адреса, часы и выставки. Эта независимая демонстрация не предоставляет проверенных данных для посетителей.",
+    "fi": "Tuleva virallinen sivusto voisi julkaista vahvistetut sijainnit, aukioloajat ja näyttelyt. Tämä itsenäinen demo ei tarjoa vahvistettuja vierailutietoja."
+  },
+  "Browse the collection": {
+    "et": "Sirvi kollektsiooni",
+    "ru": "Посмотреть коллекцию",
+    "fi": "Selaa mallistoa"
+  },
+  "OTHER KIND OF ART": {
+    "et": "TEISTSUGUNE KUNST",
+    "ru": "ДРУГОЙ ВИД ИСКУССТВА",
+    "fi": "TOISENLAISTA TAIDETTA"
+  },
+  "Menu": {
+    "et": "Menüü",
+    "ru": "Меню",
+    "fi": "Valikko",
+    "pt": "Menu"
+  },
+  "Main navigation": {
+    "et": "Põhinavigeerimine",
+    "ru": "Основная навигация",
+    "fi": "Päänavigointi",
+    "pt": "Navegação principal"
+  },
+  "Collection": {
+    "et": "Kollektsioon",
+    "ru": "Коллекция",
+    "fi": "Mallisto"
+  },
+  "The concept": {
+    "et": "Kontseptsioon",
+    "ru": "Концепция",
+    "fi": "Konsepti"
+  },
+  "Visit": {
+    "et": "Külastus",
+    "ru": "Посещение",
+    "fi": "Vierailu"
+  },
+  "Basket, {count} items": {
+    "et": "Ostukorv, {count} toodet",
+    "ru": "Корзина, {count} товаров",
+    "fi": "Ostoskori, {count} tuotetta"
+  },
+  "Basket": {
+    "et": "Ostukorv",
+    "ru": "Корзина",
+    "fi": "Ostoskori"
+  },
+  "Independent website concept by TOIMU. Not an official gallery website; no purchases are processed.": {
+    "et": "TOIMU sõltumatu veebilehe kontseptsioon. Pole ametlik galeriileht; oste ei töödelda.",
+    "ru": "Независимая концепция сайта от TOIMU. Не официальный сайт галереи; покупки не обрабатываются.",
+    "fi": "TOIMUn itsenäinen sivustokonsepti. Ei virallinen galleriasivusto; ostoksia ei käsitellä."
+  },
+  "Other Kind Of Art · Independent website concept": {
+    "et": "Other Kind Of Art · Sõltumatu veebilehe kontseptsioon",
+    "ru": "Other Kind Of Art · Независимая концепция сайта",
+    "fi": "Other Kind Of Art · Itsenäinen sivustokonsepti"
+  },
+  "About the concept": {
+    "et": "Kontseptsioonist",
+    "ru": "О концепции",
+    "fi": "Tietoa konseptista"
+  },
+  "Demo basket": {
+    "et": "Näidisostukorv",
+    "ru": "Демонстрационная корзина",
+    "fi": "Demo-ostoskori"
+  },
+  "Created by TOIMU Technologies OÜ. Artwork prices and specifications are illustrative. No orders are processed.": {
+    "et": "Looja TOIMU Technologies OÜ. Teoste hinnad ja kirjeldused on näidised. Tellimusi ei töödelda.",
+    "ru": "Создано TOIMU Technologies OÜ. Цены и характеристики работ иллюстративны. Заказы не обрабатываются.",
+    "fi": "Tekijä TOIMU Technologies OÜ. Teosten hinnat ja tiedot ovat esimerkkejä. Tilauksia ei käsitellä."
+  },
+  "Website concept": {
+    "pt": "Conceito de website",
+    "fr": "Concept de site",
+    "et": "Veebilehe kontseptsioon",
+    "ru": "Концепция сайта",
+    "fi": "Sivustokonsepti"
+  },
+  "Only your language preference is saved in this browser. Demo form details and carts are not saved.": {
+    "pt": "Apenas o idioma é guardado neste navegador. Os dados dos formulários e carrinhos de demonstração não são guardados.",
+    "fr": "Seule la langue est enregistrée dans ce navigateur. Les données des formulaires et paniers de démonstration ne sont pas enregistrées.",
+    "et": "Brauserisse salvestatakse ainult keelevalik. Näidisvormide andmeid ja ostukorve ei salvestata.",
+    "ru": "В браузере сохраняется только выбор языка. Данные демо-форм и корзин не сохраняются.",
+    "fi": "Selaimeen tallennetaan vain kielivalinta. Demolomakkeiden tietoja ja ostoskoreja ei tallenneta."
+  }
+}
